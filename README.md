@@ -1,2 +1,2 @@
 # streaming-comparisons
-Compare different stream clustering algorithms
+Compare different stream learning/clustering algorithms on the MNIST dataset.
